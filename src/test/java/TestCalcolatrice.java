@@ -21,7 +21,7 @@ class TestCalcolatrice {
     
         double ris = c.somma(8, 4);
 
-        Assert.assertEquals(11, ris, 0);
+        Assert.assertEquals(12, ris, 0);
     }
     @Test
     void testSomma3() {        
