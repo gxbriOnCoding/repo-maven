@@ -5,6 +5,7 @@ public class Calcolatrice {
         for(double addendo : addendi) {
             s = s + addendo;
         }
+        
         return s;
         
     }
